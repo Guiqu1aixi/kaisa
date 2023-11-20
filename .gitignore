@@ -1,0 +1,12 @@
+/.idea/
+/generated/
+/build/
+/.gradle/
+/log/
+*.iml
+*.class
+/*/build/
+/*/out/
+/*/log/
+/*/target/
+/*/src/main/generated/

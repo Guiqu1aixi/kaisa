@@ -11,7 +11,7 @@
 
     <modules>
         <module>kaisa-agent</module>
-        <module>redefined</module>
+        <module>kaisa-main</module>
     </modules>
 
     <properties>
